@@ -8,7 +8,7 @@
 		city: "Recife",
 	};
 
-
+>
 
 	const devProfile = {
 		skills: {
