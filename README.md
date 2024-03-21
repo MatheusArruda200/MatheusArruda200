@@ -1,6 +1,5 @@
 Frontend Devolper
 
-
 const personalProfile = {
   name: "Matheus Arruda",
   age: 27,
