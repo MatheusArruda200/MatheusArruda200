@@ -1,5 +1,7 @@
 Frontend Devolper
 
+
+
 const personalProfile = {
 
   name: "Matheus Arruda",
@@ -13,6 +15,7 @@ const personalProfile = {
   city: "Recife",
   
 };
+
 
 
 const devProfile = {
