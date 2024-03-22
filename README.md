@@ -13,7 +13,7 @@
 	const devProfile = {
 		skills: {
 		languages: ["JavaScript"],	
-		web: ["HTML5", "CSS3", "Web Protocols", "API Rest", "Animations", ...others],	
+		web: ["HTML5", "CSS3", "Web Protocols", "Animations"],	
 		frameworksAndLibrarys: ["Bootstrap"],	
   		},
 	};
