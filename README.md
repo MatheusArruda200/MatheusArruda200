@@ -2,7 +2,7 @@
 
 	 const personalProfile = { 
 		name: "Matheus Arruda",
-		age: 27,
+		age: 28,
 		location: "Brazil",
 		state: "Pernambuco",
 		city: "Recife",
@@ -12,8 +12,9 @@
 
 	const devProfile = {
 		skills: {
-		languages: ["JavaScript"],	
+		languages: ["JavaScript", "TypeScript"],	
 		web: ["HTML5", "CSS3", "Web Protocols", "Animations"],	
-		frameworksAndLibrarys: ["ReactJs", "Tailwind", "Bootstrap"],	
+		frameworksAndLibrarys: ["ReactJs", "ReactNative", "Tailwind", "Bootstrap"],
+  		api: ["Rest", "ResFul", "SOAP"]
   		},
 	};
