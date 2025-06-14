@@ -15,6 +15,6 @@
 		languages: ["JavaScript", "TypeScript"],	
 		web: ["HTML5", "CSS3", "Web Protocols", "Animations"],	
 		frameworksAndLibrarys: ["ReactJs", "ReactNative", "Tailwind", "Bootstrap"],
-  		api: ["Rest", "ResFul", "SOAP"]
+  		api: ["Rest", "RESTFul", "SOAP"]
   		},
 	};
